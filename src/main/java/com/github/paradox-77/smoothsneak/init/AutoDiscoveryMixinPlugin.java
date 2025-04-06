@@ -1,4 +1,4 @@
-package com.example.init;
+package com.github.paradox-77.smoothsneak.init;
 
 import org.spongepowered.asm.lib.tree.ClassNode;
 import org.spongepowered.asm.mixin.extensibility.IMixinConfigPlugin;

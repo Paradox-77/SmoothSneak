@@ -1,11 +1,11 @@
-package com.example;
+package com.github.paradox-77.smoothsneak;
 
 import net.minecraft.client.renderer.GlStateManager;
 import net.minecraft.init.Blocks;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.event.FMLInitializationEvent;
 
-@Mod(modid = "examplemod", useMetadata=true)
+@Mod(modid = "smoothsneak", useMetadata=true)
 public class ExampleMod {
     @Mod.EventHandler
     public void init(FMLInitializationEvent event) {
